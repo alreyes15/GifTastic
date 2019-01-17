@@ -1,0 +1,28 @@
+body {
+    margin-top: 75px;
+    margin-bottom: 75px;
+    text-align: center;
+    font-family: 'Sarabun', sans-serif;
+    
+}
+
+.container{
+
+}
+
+h1 {
+
+}
+
+#buttonsViews {
+    display: inline;
+    padding: 10px;
+}
+
+.gifs {
+    float: left;
+    padding: 25px;
+    box-shadow: 5px 5px 8px grey;
+}
+
+
