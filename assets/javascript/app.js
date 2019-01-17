@@ -41,6 +41,7 @@ function renderButtons() {
     for (var i = 0; i < results.length; i++) {
 
      var gifDiv = $("<div class=gifs>");
+     
      var showGif = $("<img>")
 
         showGif.attr("src", results[i].images.fixed_height_still.url);
